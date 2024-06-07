@@ -1,0 +1,14 @@
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\bin\Debug\net8.0\ExoCamion.exe
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\bin\Debug\net8.0\ExoCamion.deps.json
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\bin\Debug\net8.0\ExoCamion.runtimeconfig.json
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\bin\Debug\net8.0\ExoCamion.dll
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\bin\Debug\net8.0\ExoCamion.pdb
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.AssemblyInfoInputs.cache
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.AssemblyInfo.cs
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.csproj.CoreCompileInputs.cache
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.dll
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\refint\ExoCamion.dll
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.pdb
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ExoCamion.genruntimeconfig.cache
+C:\Users\sctza\RiderProjects\ExoCamion\ExoCamion\obj\Debug\net8.0\ref\ExoCamion.dll
